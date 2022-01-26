@@ -1,0 +1,32 @@
+img { 
+	width:300;
+	border:2px solid black
+	
+}
+
+div {
+	font-size:30; ; text-decoration:underline ; color:green
+}
+
+body {
+ background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/92/Gran_V%C3%ADa_%28Madrid%29_1.jpg");
+
+background-repeat: right-side;
+
+background-repeat: no-repeat;
+
+background-size: 30%;
+
+background-color: #cccccc;
+}
+
+p {
+	font-size:20
+}
+
+ol {
+	font-size:20
+}
+
+
+	
